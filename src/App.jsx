@@ -15,7 +15,7 @@ function App() {
     <BrowserRouter>
       <div className="app">
         <nav className="navbar">
-          <h2>My Website</h2>
+          <h2>Practical 11</h2>
 
           <div className="nav-links">
             <Link to="/">Home</Link>
